@@ -1,2 +1,1 @@
 # imu
-instagram masaustu uygulaması
